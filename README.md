@@ -1,7 +1,7 @@
-#Calculator App
+#CALCULATOR APP
+  
+  
   This is a simple calculator web application that I did in my spare time. It does not solve expressions with results lower than 0.09 to reduce complexity and bugs
-
-
 
 # Getting Started with Create React App
 
