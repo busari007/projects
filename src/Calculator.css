@@ -1,0 +1,44 @@
+.App{
+  width: 35%;
+  height: fit-content;
+  border: 1px solid black;
+  display: block;
+  padding: 1.5rem .5rem;
+  margin: 0rem 41rem;
+  border-radius: 11px;
+  background-color: rgb(27, 27, 36);
+}
+
+
+#display{
+  color: aliceblue;
+  text-align: right;
+  padding: 5px;
+  font-size: 100px;
+  overflow-x:auto;
+  overflow-y:hidden;
+}
+
+button{
+  padding: 30px;
+  margin: .5rem .5rem;
+  border-radius: 8px;
+  font-size: larger;
+  background-color:azure;
+  font-weight: bold;
+}
+
+#ops{
+  margin: 10px;
+  text-align: center;
+}
+
+.digits{
+  margin: 0rem .5rem;
+  text-align: center;
+}
+
+#defaults{
+  margin: 0rem .5rem;
+  text-align: center;
+}
